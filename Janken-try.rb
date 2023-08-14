@@ -1,7 +1,3 @@
-puts "じゃんけん..."
-
-puts "0(グー)1(チョキ)2(パー)3(戦わない)"
-
 def main
  #勝敗が決まらない限り続ける 
  while !IsGameDecided()
